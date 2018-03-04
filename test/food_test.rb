@@ -1,5 +1,6 @@
 require "test_helper"
 require "foodie/food"
+require "foodie"
 
 class FoodTest < Minitest::Test
   def test_broccoli_is_gross
